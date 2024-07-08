@@ -32,8 +32,6 @@ While during the task of *Failure Idendtification* we managed to achieve a parti
 
 ## 2) Traffic Prediction
 
-Traffic Prediction and Cost Evaluation)
-
 In this session we focused on traffic prediction and cost evaluation predicted traffic by Multilayer Perceptron (MLP) and Long Short-Term Memory (LSTM) models. The cost evaluation help to optimize the resource allocation according to a given demand or constraints. In particular, apart from the conventional preprocessing and hyperparameter optimization, the key objective was to show that the key metric, such as `MSE` or `MAE`, might not be well-suited for the actual cost evaluation in practical cases.
 
 

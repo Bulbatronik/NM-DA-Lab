@@ -1,6 +1,7 @@
 # NM-DA-Lab
 Repo containing the projects and homeworks done during "Network Measurements &amp; Data Analysis Lab" course
 
+The repository has the following structure:
 ```bash
 📦Network-Measurements-and-Data-Analysis-Lab
  ┣ 📂DA lab
@@ -26,32 +27,32 @@ Repo containing the projects and homeworks done during "Network Measurements &am
  ┃ ┃ ┗ 📜XAI-failure-management-microwave.ipynb
  ┃ ┗ 📜README.md
  ┣ 📂NM-lab
- ┃ ┣ 📂1-active_measurements
+ ┃ ┣ 📂1-Active-measurements
  ┃ ┃ ┣ 📜iperf3.ipynb
  ┃ ┃ ┣ 📜ping-traceroute.ipynb
  ┃ ┃ ┗ 📜snmp.ipynb
- ┃ ┣ 📂2-passive_measurements
+ ┃ ┣ 📂2-Passive-measurements
  ┃ ┃ ┣ 📜data-visualization.ipynb
  ┃ ┃ ┣ 📜LTE_measurements.csv
  ┃ ┃ ┣ 📜RTT_measurements.csv
  ┃ ┃ ┗ 📜tcpdump-example.ipynb
- ┃ ┣ 📂3-traffic_classification
+ ┃ ┣ 📂3-Traffic-classification
  ┃ ┃ ┣ 📜traffic-classification.ipynb
  ┃ ┃ ┗ 📜traffic_captures.zip
- ┃ ┣ 📂4-WiFi_sniffing
+ ┃ ┣ 📂4-WiFi-sniffing
  ┃ ┃ ┣ 📜capture_10_36_mon_5.pcapng
  ┃ ┃ ┣ 📜fingerprint_files.zip
- ┃ ┃ ┣ 📜probe_analysis1.ipynb
- ┃ ┃ ┣ 📜probe_analysis2.ipynb
+ ┃ ┃ ┣ 📜probe-analysis1.ipynb
+ ┃ ┃ ┣ 📜probe-analysis2.ipynb
  ┃ ┃ ┣ 📜test_files.zip
- ┃ ┃ ┗ 📜wifi_localization.ipynb
- ┃ ┣ 📂5-video_streaming_monitoring
+ ┃ ┃ ┗ 📜wifi-localization.ipynb
+ ┃ ┣ 📂5-Video-streaming-monitoring
  ┃ ┃ ┣ 📜dns_pcap_yt_s_1_1005.pcap.log
  ┃ ┃ ┣ 📜LiveCapturingTool.py
  ┃ ┃ ┣ 📜Live_Capture_NetLabMeas.csv
  ┃ ┃ ┣ 📜min_out_pcap_yt_s_1_1005.pcap.log
  ┃ ┃ ┣ 📜requests_yt_s_1_1005.log
- ┃ ┃ ┣ 📜Video_Traffic_Monitoring_Completed.ipynb
+ ┃ ┃ ┣ 📜video-traffic-monitoring.ipynb
  ┃ ┃ ┗ 📜yt_s_1_1005.log
  ┃ ┗ 📂Assignments
  ┃ ┃ ┣ 📂HW1-Active-Measurements
@@ -80,3 +81,28 @@ Repo containing the projects and homeworks done during "Network Measurements &am
  ┣ 📜LICENSE
  ┗ 📜README.md
  ```
+
+ ## **[DA Lab](DA-Lab)** 
+ Folder contains the main files covered during the Network Data Analysis part of the course. The main topics include
+
+- Traffic prediction for network design and reconfiguration. Traffic pattern identification. 
+- Network failure management. Overview of network failure management. Quality of Transmission (QoT) estimation. 
+- Failure detection, cause-identification and localization. Applications in optical and microwave networks.
+
+## **[NM Lab](NM-Lab)** 
+ Folder contains the main files covered during the Network Measurements part of the course. The main topics include
+
+- Overview of network measurements. Instruments for data collection. Visualization techniques for network measurements.
+- Traffic classification and intrusion detection Encrypted traffic classification. Network intrusion and detection systems.
+- Wi-Fi sniffing: single point sniffing (occupancy detection, device classification), multi-point sniffing (localization, user profiling, flow estimation)
+- Video streaming analysis: Network operators generally use resource optimization techniques to guarantee streaming requirements in an efficient way.
+
+
+## **[Project](Project)** 
+ Folder contains the files for the project **Anomaly Detection in Optical Transponders** done during the Network Data Analysis part of the course. For the project, we used the following methods and methodologies:
+
+- One-Class SVM
+- Isolation Forest
+- Principal Component Analysis (PCA)
+- Transfer Learning & Domain Adaptaion
+- Explainable AI (GradCAM XAI)
