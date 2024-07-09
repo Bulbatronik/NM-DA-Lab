@@ -82,14 +82,14 @@ The repository has the following structure:
  ┗ 📜README.md
  ```
 
- ## **[DA-Lab](DA-Lab)** 
+ ## **[DA-Lab](DA-lab)** 
  The folder contains the main files covered during the Network Data Analysis part of the course. The main topics include
 
 - Traffic prediction for network design and reconfiguration. Traffic pattern identification. 
 - Network failure management. Overview of network failure management. Quality of Transmission (QoT) estimation. 
 - Failure detection, cause-identification and localization. Applications in optical and microwave networks.
 
-## **[NM-Lab](NM-Lab)** 
+## **[NM-Lab](NM-lab)** 
  The folder contains the main files covered during the Network Measurements part of the course. The main topics include
 
 - Overview of network measurements. Instruments for data collection. Visualization techniques for network measurements.
