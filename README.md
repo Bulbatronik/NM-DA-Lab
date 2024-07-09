@@ -4,7 +4,7 @@ Repo containing the projects and homeworks done during "Network Measurements &am
 The repository has the following structure:
 ```bash
 📦Network-Measurements-and-Data-Analysis-Lab
- ┣ 📂DA lab
+ ┣ 📂DA-lab
  ┃ ┣ 📂1-Failure-management-optical
  ┃ ┃ ┣ 📜datasets.zip
  ┃ ┃ ┣ 📜failure-management.ipynb
@@ -82,27 +82,27 @@ The repository has the following structure:
  ┗ 📜README.md
  ```
 
- ## **[DA Lab](DA-Lab)** 
- Folder contains the main files covered during the Network Data Analysis part of the course. The main topics include
+ ## **[DA-Lab](DA-Lab)** 
+ The folder contains the main files covered during the Network Data Analysis part of the course. The main topics include
 
 - Traffic prediction for network design and reconfiguration. Traffic pattern identification. 
 - Network failure management. Overview of network failure management. Quality of Transmission (QoT) estimation. 
 - Failure detection, cause-identification and localization. Applications in optical and microwave networks.
 
-## **[NM Lab](NM-Lab)** 
- Folder contains the main files covered during the Network Measurements part of the course. The main topics include
+## **[NM-Lab](NM-Lab)** 
+ The folder contains the main files covered during the Network Measurements part of the course. The main topics include
 
 - Overview of network measurements. Instruments for data collection. Visualization techniques for network measurements.
 - Traffic classification and intrusion detection Encrypted traffic classification. Network intrusion and detection systems.
-- Wi-Fi sniffing: single point sniffing (occupancy detection, device classification), multi-point sniffing (localization, user profiling, flow estimation)
-- Video streaming analysis: Network operators generally use resource optimization techniques to guarantee streaming requirements in an efficient way.
+- Wi-Fi sniffing: single-point sniffing (occupancy detection, device classification), multi-point sniffing (localization, user profiling, flow estimation)
+- Video streaming analysis: Network operators generally use resource optimization techniques to guarantee streaming requirements efficiently.
 
 
 ## **[Project](Project)** 
- Folder contains the files for the project **Anomaly Detection in Optical Transponders** done during the Network Data Analysis part of the course. For the project, we used the following methods and methodologies:
+ The folder contains the files for the project **Anomaly Detection in Optical Transponders** done during the Network Data Analysis part of the course. For the project, we used the following methods and methodologies:
 
 - One-Class SVM
 - Isolation Forest
 - Principal Component Analysis (PCA)
-- Transfer Learning & Domain Adaptaion
+- Transfer Learning & Domain Adaptation
 - Explainable AI (GradCAM XAI)
