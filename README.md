@@ -1,4 +1,4 @@
-# NM-DA-Lab
+<h1 align="center">Anomaly Detection in Optical Transponders Images (NM&DA Lab</h1>
 Repo containing the projects and homeworks done during "Network Measurements &amp; Data Analysis Lab" course
 
 The repository has the following structure:
@@ -81,7 +81,15 @@ The repository has the following structure:
  ┣ 📜LICENSE
  ┗ 📜README.md
  ```
+## **[Project](Project)** 
+ The folder contains the files for the project **Anomaly Detection in Optical Transponders** done during the Network Data Analysis part of the course. For the project, we used the following methods and methodologies:
 
+- One-Class SVM
+- Isolation Forest
+- Principal Component Analysis (PCA)
+- Transfer Learning & Domain Adaptation
+- Explainable AI (GradCAM XAI)
+- 
  ## **[DA-Lab](DA-lab)** 
  The folder contains the main files covered during the Network Data Analysis part of the course. The main topics include
 
@@ -98,11 +106,4 @@ The repository has the following structure:
 - Video streaming analysis: Network operators generally use resource optimization techniques to guarantee streaming requirements efficiently.
 
 
-## **[Project](Project)** 
- The folder contains the files for the project **Anomaly Detection in Optical Transponders** done during the Network Data Analysis part of the course. For the project, we used the following methods and methodologies:
 
-- One-Class SVM
-- Isolation Forest
-- Principal Component Analysis (PCA)
-- Transfer Learning & Domain Adaptation
-- Explainable AI (GradCAM XAI)
