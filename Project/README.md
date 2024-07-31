@@ -1,5 +1,5 @@
 # Anomaly Detection in Optical Transponders (NDA Lab)
-
+*Developed with Kiarash Rezaei and Sajad Hamzenejadi*
 ## Overview
 
 This project aims to detect anomalies in optical transponder signals by analyzing constellation diagrams, focusing on 16QAM constellations at the receiver of the Channel Under Test (CUT). Faulty lasers can cause higher signal power and frequency drift, leading to interference with neighboring channels and degrading network performance. The goal is to classify signals as normal or faulty based on the characteristics of interferers with varying powers and distances from the CUT. More details on the on the project requirements and deliverables are available in `Project.pdf`.
