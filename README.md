@@ -92,7 +92,6 @@ The repository has the following structure:
 - Principal Component Analysis (PCA)
 - Transfer Learning & Domain Adaptation
 - Explainable AI (GradCAM XAI)
-- 
  ## **[DA-Lab](DA-lab)** 
  The folder contains the main files covered during the Network Data Analysis part of the course. The main topics include
 
