@@ -1,7 +1,4 @@
 <h1 align="center">Anomaly Detection in Optical Transponders Images (NM&DA Lab)</h1>
-
-*Developed with Kiarash Rezaei and Sajad Hamzenejadi*.
-
 Repo containing the projects and homeworks done during "Network Measurements &amp; Data Analysis Lab" course
 
 The repository has the following structure:
